@@ -1,0 +1,130 @@
+.logo{
+        font-family: Circular Std;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    /* or 48px */
+
+    letter-spacing: -0.02em;
+
+    color: #0A1B32;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 80px;
+    margin-top: 37px;
+}
+.logo-dot{
+   color: #FC569A;
+}
+.Home{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+        
+        text-align: center;
+        letter-spacing: 0.02em;
+        
+        color: #1B0A42;
+        margin-left: 98px;
+        margin-top: 48px;
+}
+.About{
+        font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #1B0A42;
+    margin-left: 38px;
+    margin-top: 48px
+}
+.Blog{
+        font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #1B0A42;
+    margin-left: 40px;
+    margin-top: 48px;
+}
+.Contact{
+        font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #1B0A42;
+    margin-left: 38px;
+    margin-top: 48px;
+}
+.Sign-in{
+            font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+
+        text-align: center;
+        letter-spacing: 0.02em;
+
+        color: #1B0A42;
+        margin-top: 48px;
+        margin-left: 752px;
+}
+.btn1{
+            background: #FC569A;
+            border-radius: 6px;
+            width: 120px;
+        height: 59px;
+        border: none;
+        font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+/* margin-left: 40px;
+margin-top: 30px;  when i put this in the button pushes down dont know why?*/
+}
+
+.texth1{
+        font-family: Ramarajaa
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+
+    letter-spacing: 0.02em;
+
+    color: #1B0A42;
+    width: 495px;
+    margin-left: 200px;
+    margin-top: 281px;
+}
